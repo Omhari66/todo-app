@@ -13,7 +13,7 @@ Add, complete, delete tasks and save them in **localStorage**.
 
 ## 🚀 Live Demo
 
-Check out the live demo here: [My To-Do List App](https://my-toodo-list.netlify.app/)
+Check out the live demo here: [My To-Do List App](https://myytoodoo.netlify.app/)
 
 ---
 
