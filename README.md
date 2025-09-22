@@ -7,7 +7,7 @@ Add, complete, delete tasks and save them in **localStorage**.
 
 ## 🖼 Screenshot
 
-![Screenshot of My To-Do App](assets/todo-screenshot.png)
+![Screenshot of My To-Do App](src/assets/todo-screenshot.png)
 
 ---
 
