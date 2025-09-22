@@ -1,23 +1,47 @@
-# My To-Do List App
+# My To-Do List App 📝
 
-A simple and responsive **To-Do List app** built with **React**, **Vite**, and **Tailwind CSS**.  
-Allows you to add tasks, mark them as completed, delete tasks, and save them in localStorage so that your tasks persist even after refreshing the page.
+A simple **To-Do List app** built with **React**, **Vite**, and **Tailwind CSS**.  
+Add, complete, delete tasks and save them in **localStorage**.
 
-## Features
-- Add, delete, and mark tasks as complete
-- Tasks are saved in **localStorage**
-- Responsive design for desktop and mobile
-- Clean UI with Tailwind CSS
-- Easy to use and lightweight
+---
 
-## Tech Stack
+## 🖼 Screenshot
+
+![Screenshot of My To-Do App](assets/todo-screenshot.png)
+
+---
+
+## 🚀 Live Demo
+
+Check out the live demo here: [My To-Do List App](https://my-toodo-list.netlify.app/)
+
+---
+
+## ⚡ Features
+
+- Add tasks
+- Mark tasks as complete
+- Delete tasks
+- Tasks saved in localStorage
+- Responsive UI
+- Neon hover effect for buttons
+
+---
+
+## 🛠 Tech Stack
+
 - React
 - Vite
 - Tailwind CSS
 - JavaScript (ES6)
 - LocalStorage API
 
-## Installation
-1. Clone this repository:
+---
+
+## 💻 Getting Started
+
+1. Clone the repo:
+
 ```bash
-git clone https://github.com/Omhari66/todo-app/my-toodo-list.git
+git clone https://github.com/Omhari66/my-todo-list.git
+cd my-todo-list
